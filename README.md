@@ -1,2 +1,2 @@
 # digital-media
-Mídias Digitais
+Repositório para conteúdo de Mídias Digitais
